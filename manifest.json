@@ -3,7 +3,7 @@
   "name": "Marmara UES Download Button",
   "version": "1.0",
 
-  "description": "Download button for UES Marmara lecture videos. When you click the button, new tab will be opened. You can click on right mouse button and download video.",
+  "description": "Download button for UES Marmara lecture videos.",
 
   "content_scripts": [
     {
@@ -11,10 +11,7 @@
       "js": ["index.js"]
     }
   ],
-
-  "applications": {
-    "gecko": {
-      "id": "anilsenay3-ues-download@gmail.com"
-    }
-  }
+  "web_accessible_resources": [
+    "ues-download.js"
+  ]
 }
