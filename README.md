@@ -12,3 +12,6 @@ Download button for Marmara UES videos.
 2. Enter a video page on UES system.
 3. Download button will be appeared on top of video. Click it to redirect you to new page.
 4. In this new page, click right mouse button and save video to your computer.
+
+#### An Important Warning!
+Please do not share UES videos **illegally** without your professor's permission. 
