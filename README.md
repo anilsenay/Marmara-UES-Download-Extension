@@ -14,3 +14,7 @@ Download button for Marmara UES videos.
 4. In this new page, click right mouse button and save video to your computer.
 
 ### Note: Extension is not on Mozilla Store yet. You can download file I uploaded and install it to Firefox if you trust. Otherwise if you want to download it from Mozilla Add-Ons, you have to wait to approve extension on store.
+
+
+#### An Important Warning!
+Please do not share UES videos **illegally** without your professor's permission. 
